@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgb(220, 228, 218);
+    width: 100%
+}
+
+li {
+    float: left;
+    position: relative;
+    padding: 10px 5px;
+    overflow: hidden;
+  }
+
